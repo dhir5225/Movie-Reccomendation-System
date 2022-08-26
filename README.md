@@ -1,2 +1,2 @@
-# Reeccomendation
+# Reccomendation
 recomendation on movie dataset
